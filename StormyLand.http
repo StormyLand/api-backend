@@ -1,0 +1,6 @@
+@StormyLand_HostAddress = http://localhost:5068
+
+GET {{StormyLand_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
